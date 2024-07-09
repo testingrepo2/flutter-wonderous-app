@@ -13,7 +13,7 @@ Built by [gskinner](https://gskinner.com/) in partnership with the Flutter team,
 
 In addition to forking and reviewing the [MIT licensed](LICENSE) code available here, you can check out more information on the [Wonderous Showcase Website](https://wonderous.app).
 
-# App Downloads
+# App Downloads 
 
 To try the app you can download it from your favorite app store:
 * [Google Play](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders)
